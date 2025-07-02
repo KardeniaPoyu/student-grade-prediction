@@ -58,7 +58,7 @@
 
 | 文件名 | 说明 |
 |--------|------|
-| `student_prediction.ipynb` | 项目核心代码（可直接运行） |
+| `student_prediction.py` | 项目核心代码（可直接运行） |
 | `student-mat.csv`          | 数据文件（UCI公开数据）     |
 | `report.docx`              | 大作业报告文档（Word版）   |
 | `README.md`                | 本项目说明文件               |
