@@ -1,5 +1,5 @@
 # student-grade-prediction
-中央民族大学22级《机器学习导论》期末大作业，预测学生成绩的机器学习项目
+《机器学习导论》期末大作业，预测学生成绩的机器学习项目
 
 # 🎓 学生学业成绩预测（Student Grade Prediction）
 
